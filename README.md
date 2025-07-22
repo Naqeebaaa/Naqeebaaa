@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi there! I'm Naqeeba  
+🎓 Software Engineering Student | 💻 Self-taught Developer | 🇵🇰 Pakistan
 
-<!--
-**Naqeebaaa/Naqeebaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning **JavaScript** and building beginner-level projects to improve my frontend skills.  
+I'm passionate about technology, creativity, and solving real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I’m Learning:
+- JavaScript (JS)
+- HTML & CSS
+- GitHub for version control
+- How to build small web apps using only a phone!
+
+---
+
+### 🧠 Future Goals:
+- Build my portfolio website
+- Learn React and backend development
+- Contribute to open-source projects
+- Land an internship or remote developer role
+
+---
+
+### 📫 Connect with Me:
+- GitHub: [@Naqeebaaa](https://github.com/Naqeebaaa)
+
+---
